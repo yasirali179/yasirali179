@@ -20,8 +20,11 @@ I'm a passionate and experienced Python developer with a proven track record of 
 Python | Django | Flask | HTML | CSS | JavaScript | Docker | Kubernetes | PostgreSQL | MySQL | MongoDB | Git | CI/CD | pandas | numpy
 
 🔗 Connect with Me:
+
 LinkedIn: https://www.linkedin.com/in/yasirali179/
+
 Upwork: https://www.upwork.com/freelancers/~01db791587e5deba56
+
 Medium: https://yasirali179.medium.com/
 
 📫 Let's Collaborate:
