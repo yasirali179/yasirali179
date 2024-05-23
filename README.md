@@ -13,8 +13,6 @@ Python | Django | Flask | JavaScript | Docker | Kubernetes | PostgreSQL | MySQL 
 
 LinkedIn: https://www.linkedin.com/in/yasirali179/
 
-Upwork: https://www.upwork.com/freelancers/~01db791587e5deba56
-
 Email: yasir.ali5144@gmail.com
 
 📫 Let's Collaborate:
