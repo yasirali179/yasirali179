@@ -1,6 +1,4 @@
-# AI & Python | LLMs, Chatbots, LangChain, LangGraph
-
-🌟 **Senior Python Developer | AI & LLM Specialist | Backend & Cloud Enthusiast**
+## 🌟 Senior Python Developer | AI & LLM Specialist | Backend & Cloud Enthusiast
 
 ---
 
@@ -9,8 +7,7 @@ Python | FastAPI | OpenAI | Redis | LangChain | LangGraph | NLP | Redis | ClickH
 
 ---
 
-🔗 **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/yasirali179/)  
+🔗 **Connect with Me:**  [LinkedIn](https://www.linkedin.com/in/yasirali179/)  
 📧 yasir.ali5144@gmail.com
 
 ---
