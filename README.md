@@ -1,16 +1,23 @@
-Senior Software Engineer | 🐍 Python Developer | 6+ Years of Expertise
+# AI & Python | LLMs, Chatbots, LangChain, LangGraph
 
-🛠️ Tools & Technologies:
-Python | Django | Flask | JavaScript | Docker | Kubernetes | PostgreSQL | MySQL | MongoDB | Git | CI/CD | pandas | numpy | CI/CD  |
+🌟 **Senior Python Developer | AI & LLM Specialist | Backend & Cloud Enthusiast**
 
-🔗 Connect with Me:
+---
 
-LinkedIn: https://www.linkedin.com/in/yasirali179/
+🛠️ **Tech & Tools:**  
+Python | FastAPI | OpenAI | Redis | LangChain | LangGraph | NLP | Redis | ClickHouse | Docker | Kubernetes | AWS | Azure | CI/CD | Vector Databases | AI Pipelines
 
-Email: yasir.ali5144@gmail.com
+---
 
-📫 Let's Collaborate
+🔗 **Connect with Me:**  
+[LinkedIn](https://www.linkedin.com/in/yasirali179/)  
+📧 yasir.ali5144@gmail.com
 
-🚀 Open to New Challenges & Opportunities
+---
 
-#Python #WebDevelopment #SoftwareEngineering #Django #Flask #OpenSource #ContinuousImprovement
+📫 **Let’s Collaborate**  
+🚀 Open to AI, LLM, and Backend Challenges
+
+---
+
+#Python #AI #LLM #LangChain #LangGraph #OpenAI #Chatbots #NLP #FastAPI #Cloud #Docker #Kubernetes
